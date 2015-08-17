@@ -19,18 +19,15 @@ All information about the course will be posted here.
 ## News
 
 * **Sept 1** - Welcome back!
-
-<!--
-* **Sept 9** - Assignment 1 (Don Quixote) Due.
-* **Sept 23** - Assignment 2 (Rollin' Train) Due.
-* **Sept 25 - EXAM I.**
-* **Oct 14** - NO CLASS - Fall Break.
-* **Oct 16** - FINAL PROJECT, Milestone 1 Demo.
-* **Oct 27** - Assignment 3 (Limelight) Due.
-* **Oct 28 - EXAM II.**
-* **Nov 18** - Assignment 4 (TeaMan) Due.
-* **Nov 20 - EXAM III.**
-* **Nov 25** - FINAL PROJECT, Milestone 2 Demo.
-* **Nov 27** - NO CLASS - Thanksgiving Break.
+* **Sept 15** - Assignment 1 (Don Quixote) Due.
+* **Sept 29** - Assignment 2 (Rollin' Train) Due.
+* **Oct 1 - EXAM I.**
+* **Oct 20** - NO CLASS - Fall Break.
+* **Oct 21** - FINAL PROJECT, Milestone 1 Demo.
+* **Oct 29** - Assignment 3 (Limelight) Due.
+* **Nov 3 - EXAM II.**
+* **Nov 17** - FINAL PROJECT, Milestone 2 Demo.
+* **Nov 24** - Assignment 4 (TeaMan) Due.
+* **Nov 26** - NO CLASS - Thanksgiving Break.
+* **Dec 3 - EXAM III.**
 * **Dec 11 - FINAL PROJECT DEMOS 10:15am-12:15pm** [Submission Instructions](assign/ProjectSubmit.html)
--->
