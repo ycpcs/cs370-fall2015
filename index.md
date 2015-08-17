@@ -3,9 +3,9 @@ layout: default
 title: Home page
 ---
 
-# Welcome to CS 370, Fall 2014!
+# Welcome to CS 370, Fall 2015!
 
-This is the website for CS 370, Fall 2014 at York College.
+This is the website for CS 370, Fall 2015 at York College.
 All information about the course will be posted here.
 
 ## Links
@@ -18,7 +18,9 @@ All information about the course will be posted here.
 
 ## News
 
-* **Aug 26** - Welcome back!
+* **Sept 1** - Welcome back!
+
+<!--
 * **Sept 9** - Assignment 1 (Don Quixote) Due.
 * **Sept 23** - Assignment 2 (Rollin' Train) Due.
 * **Sept 25 - EXAM I.**
@@ -31,3 +33,4 @@ All information about the course will be posted here.
 * **Nov 25** - FINAL PROJECT, Milestone 2 Demo.
 * **Nov 27** - NO CLASS - Thanksgiving Break.
 * **Dec 11 - FINAL PROJECT DEMOS 10:15am-12:15pm** [Submission Instructions](assign/ProjectSubmit.html)
+-->
