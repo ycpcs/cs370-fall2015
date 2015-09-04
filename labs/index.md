@@ -7,6 +7,8 @@ This page links to in-class labs.
 
 Although the labs are not graded and you are not required to submit them, they are very important for learning the essential concepts and techniques in the course, so any lab you don't finish in class you should finish on your own time.
 
+Note: To compile the labs under Linux, change the line in the Makefile from **LIBS = -lglut -lGLU** to **LIBS = -lglut -lGLU -lGL**
+
 > Date | Lab | File(s) | Solution |
 > ---- | --- | ------- | -------- |
 > Sept 1  | [Lab 1: Hello, OpenGL](lab01.html) | [CS370_Lab01.zip](src/CS370_Lab01.zip) | [CS370_Lab01Sol.zip](sol/CS370_Lab01Sol.zip)
