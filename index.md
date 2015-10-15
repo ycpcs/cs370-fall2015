@@ -23,7 +23,7 @@ All information about the course will be posted here.
 * **Sept 29** - Assignment 2 (Rollin' Train) Due.
 * **Oct 1 - EXAM I.**
 * **Oct 20** - NO CLASS - Fall Break.
-* **Oct 21** - FINAL PROJECT, Milestone 1 Demo.
+* **Oct 22** - FINAL PROJECT, Milestone 1 Demo in class.
 * **Oct 29** - Assignment 3 (Limelight) Due.
 * **Nov 3 - EXAM II.**
 * **Nov 17** - FINAL PROJECT, Milestone 2 Demo.
