@@ -74,7 +74,7 @@ These factors guarantee that the same color is rendered *regardless of order* an
 Creating even simple geometries by hand is usually a tedious process. Fortunately the OpenGL utility library (**glu**, which is available on most systems) provides a mechanism called *quadrics* for creating many common geometric objects, e.g. spheres, cylinders/cones, disks, etc. In order to use quadrics, we must first declare a pointer to a **GLUQuadricObj** variable as:
 
 ```cpp
-GLUQuadricObj *quadric;
+GLUquadricObj *quadric;
 ```
 
 where *quadric* is the variable name of the quadric. Note: We only need to define one pointer (but may wish to use several for readability or to set different rendering properties) which can then be used to create multiple (different) quadric objects.
