@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 4: Stick Man Walking"
 ---
 
-**Written Questions Due: Tuesday, Nov 24th by 9:30/11:00 AM** (in class)
+**Written Questions Due: Tuesday, Dec 1st by 9:30/11:00 AM** (in class)
 
-**Program Due: Tuesday, Nov 24th by 11:59 PM** Late assignments will be penalized 20 points per day.
+**Program Due: Tuesday, Dec 1st by 11:59 PM** Late assignments will be penalized 20 points per day.
 
 0. Getting Started
 ==================

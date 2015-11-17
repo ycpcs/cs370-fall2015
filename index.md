@@ -29,5 +29,6 @@ All information about the course will be posted here.
 * **Nov 17** - FINAL PROJECT, Milestone 2 Demo.
 * **Nov 24** - Assignment 4 (TeaMan) Due.
 * **Nov 26** - NO CLASS - Thanksgiving Break.
+* **Dec 1** - Assignment 4 (TeaMan) Due.
 * **Dec 3 - EXAM III.**
 * **Dec 11 - FINAL PROJECT DEMOS 10:15am-12:15pm** [Submission Instructions](assign/ProjectSubmit.html)
