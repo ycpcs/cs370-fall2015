@@ -51,7 +51,7 @@ Write a program that draws a 3D scene of a walking robot with articulated arms a
 -   All the parts of the robot other than the torso should use materials and lighting.
 -   The torso of the robot should be texture mapped using the **shirt\_z.png** texture. Note that the texture map contains labelled pieces for the front, back, left, and right faces of the cube (you may use any parts of the texture map for the top/bottom faces). The pixel locations for the divisions between the segments is shown below:
 
-    > ![image](images/assign04/shirt_tex_layout.pdf)
+    > ![image](images/assign04/shirt_tex_layout.png)
 
 -   The box should be translucent such that the teapot can be seen inside it.
 -   The robot should "walk" by moving arms in opposition to the legs. The steps should be time-based, i.e. should occur at a rate of *sps* (steps-per-second).
